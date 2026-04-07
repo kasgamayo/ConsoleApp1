@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System; // Allows us to use classes from the System namespace, like Console [4]
+using System;
 
 namespace BankingApp
 {
