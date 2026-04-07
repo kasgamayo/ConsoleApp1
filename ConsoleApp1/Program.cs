@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System; // Allows us to use classes from the System namespace, like Console [4]
+using System;
 
 namespace BankingApp
 {
@@ -10,7 +10,7 @@ namespace BankingApp
             double balance = 0;
             bool isRunning = true;
 
-            Console.WriteLine("Welcome to the Simple C# Banking Console App! What is your name?");
+            Console.WriteLine("Welcome to the Simple Banking! What is your name?");
             string name = Console.ReadLine();
 
             while (isRunning)
