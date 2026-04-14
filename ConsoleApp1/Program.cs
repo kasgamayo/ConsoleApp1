@@ -10,7 +10,7 @@ namespace BankingApp
             double balance = 0;
             bool isRunning = true;
 
-            Console.WriteLine("Welcome to the Simple Banking! What is your name?");
+            Console.WriteLine("Welcome to the Simple Banking App! What is your name?");
             string name = Console.ReadLine();
 
             while (isRunning)
